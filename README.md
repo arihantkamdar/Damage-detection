@@ -7,3 +7,9 @@ Download the COCO Mask RCNN model : https://github.com/matterport/Mask_RCNN/rele
 
 The dataset could be cownloaded from the link given in the below
 https://drive.google.com/drive/folders/18Ay-ZA5KL-sOqn2GcJZQdKZ7C9pWAOur?usp=sharing
+
+# Steps to use repository
+1. Download the dataset and the mask RCNN COCO h5 model from the links given
+2. Change the path of dataset and model in code as mentioned
+3. Install pixellib if it is not installled
+4. Run the code on the demo images given
